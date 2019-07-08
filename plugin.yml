@@ -1,0 +1,8 @@
+name: ScreenToMap
+version: 1.0
+main: me.delta2force.screentomap.ScreenToMapPlugin
+api-version: 1.13
+
+commands:
+ screentomap:
+  description: Put your screen on your map!
